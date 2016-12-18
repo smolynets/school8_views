@@ -1,0 +1,74 @@
+/* Global Styles */
+
+.row {
+	margin-bottom: 70px;
+}
+
+
+.name {
+  font-weight: bold;
+  font-family: "Times New Roman";
+  font-size: 230%;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.text {
+	font-family: "Times New Roman";
+	font-size: 180%;
+	margin-top: 40px;
+	padding-left: 50px;
+}
+
+.photo {
+  text-align: center;
+}
+
+/* Form Styles */
+textarea,
+select,
+input {
+max-width: 600px;
+}
+
+
+
+#buttom{
+  max-width: 500px;
+  margin-bottom: 500px;
+  background: #008000;
+}
+
+#buttom2{
+  max-width: 500px;
+  margin-bottom: 500px;
+  background: #FF0000;
+}
+
+.h1{
+	padding-left: 190px;
+}
+
+
+#button_yes{
+  background: #008000;
+}
+
+#button_cancel{
+  background: #FFFF00;
+}
+
+#buttom3{
+  background: #FF0000;
+}
+
+#textarea{
+  width:400px;
+  height:400px;
+}
+
+.form{
+  padding: 50px;
+   
+}
